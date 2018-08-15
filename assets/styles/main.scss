@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 html, body {
     -webkit-font-smoothing: antialiased;
@@ -9,7 +10,7 @@ html, body {
   
   body {
     background: #eee;
-    font-family: 'Rubik' monospace, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'Rubik', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 14px;
     color:#000;
     margin: 0;
@@ -23,8 +24,9 @@ html, body {
 
     p {
         //padding: 10px;
+        font-family: 'Roboto Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
         margin-top: 22px;
-        font-size: 58px;
+        font-size: 46px;
         color: white;
     }
 }

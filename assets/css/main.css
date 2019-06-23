@@ -4835,7 +4835,7 @@ input, select, textarea {
 		-ms-justify-content: -ms-flex-end;
 		justify-content: flex-end;
 		position: relative;
-		overflow-x: hidden;
+		overflow: hidden;
 		text-align: left;
 	}
 
